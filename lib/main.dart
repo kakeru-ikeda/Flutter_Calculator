@@ -18,7 +18,7 @@ class MyApp extends StatelessWidget {
         colorScheme: ColorScheme.fromSeed(seedColor: Colors.deepPurple),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: '課題05 電卓 IH13B_02 池田翔'),
+      home: const MyHomePage(title: 'Flutter Calculator'),
     );
   }
 }

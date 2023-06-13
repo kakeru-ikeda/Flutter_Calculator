@@ -1,10 +1,9 @@
-# kadai03_ih13b_02
+# Flutter_Calculator
+Flutterで作成された電卓アプリケーションです。
 
-全動作確認済み
-やむを得ない場合はflutter installで実機orエミュレータで実装してください。
+括弧を利用した計算に対応します。
+
 Build済APK： ./build/app/outputs/flutter-apk/app-release.apk
-
-A new Flutter project.
 
 ## Getting Started
 
