@@ -90,12 +90,12 @@ BEGIN
         BLOCK "040904e4"
         BEGIN
             VALUE "CompanyName", "com.example" "\0"
-            VALUE "FileDescription", "kadai03_ih13b_02" "\0"
+            VALUE "FileDescription", "Flutter_Calculator" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
-            VALUE "InternalName", "kadai03_ih13b_02" "\0"
+            VALUE "InternalName", "Flutter_Calculator" "\0"
             VALUE "LegalCopyright", "Copyright (C) 2023 com.example. All rights reserved." "\0"
-            VALUE "OriginalFilename", "kadai03_ih13b_02.exe" "\0"
-            VALUE "ProductName", "kadai03_ih13b_02" "\0"
+            VALUE "OriginalFilename", "Flutter_Calculator.exe" "\0"
+            VALUE "ProductName", "Flutter_Calculator" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
         END
     END

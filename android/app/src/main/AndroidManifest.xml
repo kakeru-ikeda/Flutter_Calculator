@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="kadai03_ih13b_02"
+        android:label="Flutter_Calculator"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
